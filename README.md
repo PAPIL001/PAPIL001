@@ -49,6 +49,9 @@
         <a href="https://github.com/PAPIL001/Jobify">
           <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
+        <a href="https://jobify-17wq.onrender.com/">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
       </p>
       <p>Job portal where recruiters post jobs & track applicants with resume downloads. Job seekers can browse, filter & apply instantly.</p>
     </td>
@@ -57,6 +60,9 @@
       <p align="center">
         <a href="https://github.com/PAPIL001/Chat-Room">
           <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://chat-room-rej3.onrender.com/">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>Real-time multi-room chat with named rooms, join/leave notifications, dark mode UI & mobile-friendly design.</p>
@@ -69,6 +75,9 @@
         <a href="https://github.com/PAPIL001/Music-Application">
           <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
+        <a href="https://music-application-iota.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
       </p>
       <p>High-performance web music player built on Node.js MVC architecture with a stunning dark mode interface & zero-config discovery.</p>
     </td>
@@ -77,6 +86,9 @@
       <p align="center">
         <a href="https://github.com/PAPIL001/Pawsome-Foundation">
           <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://pawsome-foundation.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </p>
       <p>Responsive website for an animal rescue sanctuary in Lucknow — 280+ rescued animals — with donation popup & QR code flow.</p>
