@@ -6,9 +6,31 @@
 
 <p align="center">
   <a href="https://portfolio-chi-orcin-57.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="mailto:papil.verma.5@gmail.com">📬 Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/papil-verma-0a0181337/" target="_blank">💼 LinkedIn</a>
+  <a href="https://github.com/PAPIL001" target="_blank">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/papil-verma-0a0181337/" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/vpapil/" target="_blank">🧩 LeetCode</a> &nbsp;|&nbsp;
+  <a href="mailto:papil.verma.5@gmail.com">📬 papil.verma.5@gmail.com</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PAPIL001&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🦇 Portfolio](https://github.com/PAPIL001/Portfolio) | Cinematic Gotham-noir themed developer portfolio | HTML, CSS, Vanilla JS |
+| [✈️ SkyBook](https://github.com/PAPIL001/SkyBook---Flight-Booking-System) | Full-stack flight booking with real-time seat updates, JWT auth & admin controls | React, Node.js, MongoDB, Socket.io |
+| [💼 Jobify](https://github.com/PAPIL001/Jobify) | Job portal — recruiters post jobs, seekers apply with resume uploads | Node.js, Express, MongoDB, Multer |
+| [💬 Chat Room](https://github.com/PAPIL001/Chat-Room) | Real-time multi-room chat with dark mode UI | Node.js, Socket.io |
+| [🎵 Music Application](https://github.com/PAPIL001/Music-Application) | High-performance web music player with MVC architecture & dark mode | Node.js, Express, HTML5 |
+| [🐾 Pawsome Foundation](https://github.com/PAPIL001/Pawsome-Foundation) | Responsive website for an animal rescue sanctuary with donation QR flow | HTML, CSS, JS |
+| [🔬 PubMed Fetcher](https://github.com/PAPIL001/PubMed-Fetcher) | CLI tool to fetch & filter research papers from PubMed API | Python |
+| [❎ Tic Tac Toe](https://github.com/PAPIL001/TIC-TAC-TOE-GAME-) | Two-player game with winner & draw detection | HTML, CSS, JS |
+| [🌤️ Weather API](https://github.com/PAPIL001/Weather-API) | PyQt5 desktop app fetching real-time weather from OpenWeatherMap | Python, PyQt5 |
 
 ---
 
@@ -24,19 +46,9 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [✈️ SkyBook](https://github.com/PAPIL001/SkyBook---Flight-Booking-System) | Full-stack flight booking with real-time seat updates, JWT auth & admin controls | React, Node.js, MongoDB, Socket.io |
-| [💼 Jobify](https://github.com/PAPIL001/Jobify) | Job portal — recruiters post jobs, seekers apply with resume uploads | Node.js, Express, MongoDB, Multer |
-| [📱 Social Media API](https://github.com/PAPIL001/Social-Media-API) | RESTful API with auth, posts, image uploads, likes & comments | Node.js, Express, JWT |
-| [🧠 EntityGraph](https://github.com/PAPIL001/entitygraph) | AI document intelligence — extracts entities & visualizes as knowledge graph | Python, GPT-4o mini |
-| [🔬 PubMed Fetcher](https://github.com/PAPIL001/PubMed-Fetcher) | CLI tool to fetch & filter research papers from PubMed API | Python |
-| [💬 Chat Room](https://github.com/PAPIL001/Chat-Room) | Real-time multi-room chat with dark mode UI | Node.js, Socket.io |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -66,10 +78,6 @@
 - Python data pipelines for an internal AI/ML initiative
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PAPIL001&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <p align="center">
   <i>Open to Full Stack & Backend Developer roles · Pan-India</i>
